@@ -1,0 +1,1 @@
+替换当前config文件到acad.exe目录
